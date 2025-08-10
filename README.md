@@ -18,4 +18,4 @@ This helps beginners practice Python file handling, menu-driven programming, and
 - Working with lists and string manipulation
 
 # 📥 Download
-- 📌 [Download Python Script](https://github.com/Farisraihan777/Python-hub_.../blob/main/WLECOME%20TO%20STUDENT%20MANAGEMENT%20SYSTEM.py)
+📌 [Download Python Script](https://github.com/Farisraihan777/Python-hub_.../blob/main/WLECOME%20TO%20STUDENT%20MANAGEMENT%20SYSTEM.py)
