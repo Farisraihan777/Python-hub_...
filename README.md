@@ -36,6 +36,10 @@ It stores all records in a database.txt file, making the data persistent across 
 ## 📥 Download
 📌 [Download Python Script](https://github.com/Farisraihan777/Python-hub_.../blob/main/WLECOME%20TO%20STUDENT%20MANAGEMENT%20SYSTEM.py)
 
+# 📸 Dashboard Screenshot
+<img width="1919" height="1120" alt="Snapshot of Python Project" src="https://github.com/user-attachments/assets/2c7fe3d9-a1bb-4cd0-aa51-cc427f8b35df" />
+
+
   ## 🔗 Portfolio & Contact
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/faris-raihan-70b916329/)
 - 📧 [Email:](farisraihan777@gmail.com)
